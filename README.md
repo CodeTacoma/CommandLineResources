@@ -1,7 +1,7 @@
 # Command Line Interface (CLI) Resources
-#### a collection of exercises and reference materials for building cli skills
+## a collection of exercises and reference materials for building cli skills
 
-# (hopefully) helpful links:
+### (hopefully) helpful links:
 
 #### what the heck is the command line?
 https://en.wikipedia.org/wiki/Command-line_interface
