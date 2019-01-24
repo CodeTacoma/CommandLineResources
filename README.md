@@ -39,3 +39,8 @@ http://www.freeos.com/guides/lsst/ch02sec01.html
 
 * [Emacs](https://www.gnu.org/software/emacs/)
   * [learning Emacs](https://ensime.github.io/editors/emacs/)
+
+### other terminal applications
+* [iTerm2](https://www.iterm2.com) - Mac
+* [Hyper](https://hyper.is) - Mac, Linux, Windows
+* [Terminator](https://gnometerminator.blogspot.com) - Linux
