@@ -19,8 +19,8 @@ ftp://ftp.cwru.edu/pub/bash/FAQ
 https://en.wikipedia.org/wiki/Comparison_of_command_shells
 
 ### other shells
-[OhMyZSH](https://ohmyz.sh)
-[Fish shell](https://fishshell.com)
+* [OhMyZSH](https://ohmyz.sh)
+* [Fish shell](https://fishshell.com)
 
 #### long list of linux commands: 
 https://fossbytes.com/a-z-list-linux-command-line-reference/
@@ -31,10 +31,11 @@ https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x945.html
 http://www.freeos.com/guides/lsst/ch02sec01.html
 
 ### shell text editors
-[vim](https://www.vim.org)
-[learning vim](https://www.openvim.com/tutorial.html)
-[nano](https://www.nano-editor.org)
-[learning nano](https://www.tecmint.com/learn-nano-text-editor-in-linux/)
-[Emacs](https://www.gnu.org/software/emacs/)
-[learning Emacs](https://ensime.github.io/editors/emacs/)
+* [vim](https://www.vim.org)
+  * [learning vim](https://www.openvim.com/tutorial.html)
 
+* [nano](https://www.nano-editor.org)
+  * [learning nano](https://www.tecmint.com/learn-nano-text-editor-in-linux/)
+
+* [Emacs](https://www.gnu.org/software/emacs/)
+  * [learning Emacs](https://ensime.github.io/editors/emacs/)
