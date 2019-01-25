@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/Comparison_of_command_shells
 
 #### long list of linux commands: 
 https://fossbytes.com/a-z-list-linux-command-line-reference/
+https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 
 #### shell scripting examples
 https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x945.html
